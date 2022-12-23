@@ -35,7 +35,7 @@
     "got": "^11.8.5",
     "helios-core": "~0.1.2",
     "jquery": "^3.6.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "minecraft-protocol": "^1.36.1",
     "node-machine-id": "^1.1.12",
     "node-stream-zip": "^1.15.0",
