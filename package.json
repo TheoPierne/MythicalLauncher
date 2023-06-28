@@ -39,7 +39,7 @@
     "minecraft-protocol": "^1.41.2",
     "node-machine-id": "^1.1.12",
     "node-stream-zip": "^1.15.0",
-    "semver": "^7.3.8",
+    "semver": "^7.5.2",
     "uuid": "^9.0.0"
   },
   "devDependencies": {
